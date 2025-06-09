@@ -1,3 +1,6 @@
+
+shopping_list = []
+# A simple shopping list manager that allows users to add, remove, and view items in their shopping list.
 def display_menu():
     print("\nShopping List Manager")
     print("1. Add Item")
